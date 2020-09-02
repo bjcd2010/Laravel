@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Bienvenido Laravel
+                    Bienvenido Laravel UI
                 </div>
 
                 
